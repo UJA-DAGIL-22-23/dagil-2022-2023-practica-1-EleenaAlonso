@@ -8,7 +8,7 @@ Tus tareas consisten en:
 ### Elena Alonso Tejederas
 <img src='/eat00004.png' width='200px'>
 
-Profesor del departamento de Informática de la Universidad de Jaén.
+Alumna del Grado de Ingeniería Informática de la Universidad de Jaén.
 * **Correo**: eat00004@red.ujaen.es
 * **Usuario de GitHub**: EleenaAlonso
 * **GitHub**: https://github.com/EleenaAlonso
