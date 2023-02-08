@@ -1,0 +1,37 @@
+{
+  "titulo": "# Plantilla Práctica 1",
+  "descripcion": "Este es un repositorio básico para comprobar cómo funciona GitHub y, especialmente, GitHub Classroom.",
+  "tareas": [
+    "Modificar este fichero README.md de modo que pongas tus datos en formato MarkDown.",
+    "Añadir un fichero <code>datos.json</code> en el que se almacenen los mismos datos (incluída la URL de la imagen) en formato [JSON](https://es.wikipedia.org/wiki/JSON)."
+  ],
+  "persona": {
+    "nombre": "Elena Alonso Tejederas",
+    "imagen": "/eat00004.png",
+    "width": "200px",
+    "datos": {
+      "profesion": "Alumna del Grado de Ingeniería Informática de la Universidad de Jaén.",
+      "correo": "eat00004@red.ujaen.es",
+      "usuario_github": "EleenaAlonso",
+      "github": "https://github.com/EleenaAlonso",
+      "trello": "https://trello.com/invite/b/PpIEc149/ATTI4adc7dd8f1e1259c69d07d9a7e8b081bF6589273/desarrollo-agil"
+    },
+    "capturas": [
+      {
+        "nombre": "Captura de pantalla de Trello",
+        "imagen": "/tablero.png",
+        "width": "200px"
+      },
+      {
+        "nombre": "Captura de pantalla de GitHub",
+        "imagen": "/GitHub.png",
+        "width": "200px"
+      },
+      {
+        "nombre": "Captura de pantalla de Trello en proceso",
+        "imagen": "/Trello_en_proceso.png",
+        "width": "200px"
+      }
+    ]
+  }
+}
