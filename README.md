@@ -12,7 +12,7 @@ Alumna del Grado de Ingeniería Informática de la Universidad de Jaén.
 * **Correo**: eat00004@red.ujaen.es
 * **Usuario de GitHub**: EleenaAlonso
 * **GitHub**: https://github.com/EleenaAlonso
-* **Trello**: https://trello.com/invite/b/PpIEc149/ATTI4adc7dd8f1e1259c69d07d9a7e8b081bF6589273/desarrollo-agil
+* **Trello**: https://trello.com/b/PpIEc149/desarrollo-%C3%A1gil
 
 #### Captura de pantalla de Trello
 <img src='/tablero.png' width='200px'>
